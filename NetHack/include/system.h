@@ -355,7 +355,7 @@ E char *FDECL(memset, (char *, int, int));
 E void sleep();
 #endif
 #if defined(ULTRIX) || defined(SYSV)
-E unsigned sleep();
+E unsigned sleep(unsigned int);
 #endif
 #if defined(HPUX)
 E unsigned int FDECL(sleep, (unsigned int));

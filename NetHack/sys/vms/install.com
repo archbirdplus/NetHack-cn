@@ -251,7 +251,7 @@ $ if p3.nes."" then  exit
 $!
 $! done
 $	milestone "<done>"
-$ define/nolog nethackdir 'gamedir'
+$ define/nolog nethack-cndir 'gamedir'
 $ define/nolog hackdir 'gamedir'
 $ echo -
     f$fao("!/ Nethack installation complete. !/ Playground is !AS !/",gamedir)

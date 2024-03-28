@@ -363,7 +363,7 @@ WINCURSESLIB = -lncurses
 LIBS =
 
 # make NetHack
-GAME     = nethack
+GAME     = nethack-cn
 # GAME     = nethack.prg
 
 # if you defined RANDOM in unixconf.h/tosconf.h since your system did not come

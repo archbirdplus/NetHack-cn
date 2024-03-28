@@ -2019,7 +2019,7 @@
 				NH_DAT_DIR = "$(NH_ROOT_DIR)/dat";
 				NH_DOC_DIR = "$(NH_ROOT_DIR)/doc";
 				NH_INC_DIR = "$(NH_ROOT_DIR)/include";
-				NH_INSTALL_DIR = "$(HOME)/nethackdir";
+				NH_INSTALL_DIR = "$(HOME)/nethack-cndir";
 				NH_ROOT_DIR = "$(SOURCE_ROOT)/../..";
 				NH_SRC_DIR = "$(NH_ROOT_DIR)/src";
 				NH_UNIX_DIR = "$(NH_ROOT_DIR)/sys/unix";
@@ -2095,7 +2095,7 @@
 				NH_DAT_DIR = "$(NH_ROOT_DIR)/dat";
 				NH_DOC_DIR = "$(NH_ROOT_DIR)/doc";
 				NH_INC_DIR = "$(NH_ROOT_DIR)/include";
-				NH_INSTALL_DIR = "$(HOME)/nethackdir";
+				NH_INSTALL_DIR = "$(HOME)/nethack-cndir";
 				NH_ROOT_DIR = "$(SOURCE_ROOT)/../..";
 				NH_SRC_DIR = "$(NH_ROOT_DIR)/src";
 				NH_UNIX_DIR = "$(NH_ROOT_DIR)/sys/unix";
